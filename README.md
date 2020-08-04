@@ -34,29 +34,30 @@ https://ieeexplore.ieee.org/document/8365185
 2. jamesbond.wav(https://drive.google.com/file/d/1HcpfYWd7DohiK4LgUYYoTAPLiPFqXXdJ/view?usp=sharing)
 
 **Input/Output**
-Original Audio Waveform and Audio Steganographed in the image (Ah201.wav)
+
+**Original Audio Waveform and Audio Steganographed in the image (Ah201.wav)**
 
 ![Original Audio](https://user-images.githubusercontent.com/31190025/89286656-3b6e7f80-d670-11ea-8329-c9b719473d39.png)
 
 ![Original Image](https://user-images.githubusercontent.com/31190025/89286748-60fb8900-d670-11ea-99f2-007074dc16d2.png)
 
-Encrypted Signal Waveform and Steganographed encrypted audio in image
+**Encrypted Signal Waveform and Steganographed encrypted audio in image**
 
 ![Encrypted Signal](https://user-images.githubusercontent.com/31190025/89286902-9c965300-d670-11ea-9d10-59f78e64b946.png)
 
 ![Encrypted Image](https://user-images.githubusercontent.com/31190025/89286924-a7e97e80-d670-11ea-90c3-cedcbd598e2b.png)
 
-Error Generated
-
-![error](https://user-images.githubusercontent.com/31190025/89279310-d82b2000-d664-11ea-8bef-143cddaa81f1.png)
-
-Decrypted Signal Waveform and Steganographed Decrypted Audio in Image format
+**Decrypted Signal Waveform and Steganographed Decrypted Audio in Image format**
 
 ![Decrypted Signal](https://user-images.githubusercontent.com/31190025/89287001-c51e4d00-d670-11ea-8178-dc577b258dd9.png)
 
 ![Decrypted Image](https://user-images.githubusercontent.com/31190025/89286616-285baf80-d670-11ea-979b-47e773369801.png)
 
-Original Audio vs Decryped Audio
+**Error Generated**
+
+![error](https://user-images.githubusercontent.com/31190025/89279310-d82b2000-d664-11ea-8bef-143cddaa81f1.png)
+
+**Original Audio vs Decryped Audio**
 
 ![Decrypted Vs Original](https://user-images.githubusercontent.com/31190025/89287032-d5362c80-d670-11ea-91ad-00c365cccc7a.png)
 
